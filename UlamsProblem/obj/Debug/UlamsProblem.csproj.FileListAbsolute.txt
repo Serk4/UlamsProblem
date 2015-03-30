@@ -1,0 +1,6 @@
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\bin\Debug\UlamsProblem.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\bin\Debug\UlamsProblem.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\bin\Debug\UlamsProblem.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\obj\Debug\UlamsProblem.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\obj\Debug\UlamsProblem.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\UlamsProblem\UlamsProblem\obj\Debug\UlamsProblem.pdb
