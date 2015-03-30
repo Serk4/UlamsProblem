@@ -14,6 +14,6 @@ All numbers eventually go into a repeating series 4, 2, 1... This demonstration 
 Output is in four columns, 3 numbers and the whole series for each:
 
 1. the test number
-2. the count of numbers in the series
+2. the count of numbers in the series (i.e., the test number through 1)
 3. the highest value in the series
 4. the series, the number being tested is on the far right 
